@@ -1,0 +1,11 @@
+Model Information:
+* title:	USS TARAWA LHA-1 AMPHIBIOUS ASSAULT SHIP
+* source:	https://sketchfab.com/3d-models/uss-tarawa-lha-1-amphibious-assault-ship-0d1692199c2847b3a8eae40e285d4ea1
+* author:	Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "USS TARAWA LHA-1 AMPHIBIOUS ASSAULT SHIP" (https://sketchfab.com/3d-models/uss-tarawa-lha-1-amphibious-assault-ship-0d1692199c2847b3a8eae40e285d4ea1) by Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
